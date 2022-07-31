@@ -18,11 +18,6 @@ public class AdditionOfLists {
         ArrayList<Integer> list3 = new ArrayList<>();
         ArrayList<Integer> list4 = new ArrayList<>();
 
-
-        /*int size = list1.size();
-        if (list1.size() < list2.size()) {
-            size = list2.size();
-        }*/
         int min = list1.size();
         int max = list2.size();
         for (int i = 0; i < min; i++) {
